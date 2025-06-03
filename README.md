@@ -88,6 +88,7 @@ Essa análise mostra o custo médio de frete por loja, permitindo verificar se o
 ## ✅ Conclusão
 
 Com base nos indicadores analisados — faturamento, volume de vendas, categorias, avaliações e frete — o Sr. João poderá tomar uma decisão mais embasada sobre qual loja vender. A combinação entre performance financeira e satisfação do cliente permite uma visão estratégica completa.
-Sugestão: Com base nas anãlises acima, a venda da loja 4 é mais indicada pela baixa performance em relação às outras lojas.
+
+**Sugestão**: Com base nas anãlises acima, a venda da loja 4 é mais indicada pela baixa performance em relação às outras lojas.
 
 ---
